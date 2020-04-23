@@ -1,0 +1,4 @@
+.video__container-item {
+    min-width: calc(50% - 9px);
+    padding-right: 18px;
+}

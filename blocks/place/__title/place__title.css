@@ -1,0 +1,12 @@
+.place__title {
+    max-width: 460px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 65px;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    margin: 0;
+    -ms-grid-row-align: end;
+        align-self: end;
+}

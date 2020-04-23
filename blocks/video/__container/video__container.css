@@ -1,0 +1,9 @@
+.video__container {
+    max-width: 1184px;
+    display: flex;
+    flex-direction: row;
+    margin: 72px auto 102px;
+    justify-content: space-between;
+    display: -webkit-box;
+    display: -ms-flexbox;
+}

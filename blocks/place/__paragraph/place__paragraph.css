@@ -1,0 +1,13 @@
+@import url(./_top/place__paragraph_top.css);
+@import url(./_bottom/place__paragraph_bottom.css);
+
+.place__paragraph {
+    max-width: 484px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    grid-row-start: 2;
+    grid-column-start: 2;
+    grid-column-end: 4;
+}

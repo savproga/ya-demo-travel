@@ -1,0 +1,10 @@
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
+
+.cover {
+    max-width: 1184px;
+    background-blend-mode: color;
+    background: url(../../images/baikal-dog.jpg) no-repeat, rgba(0, 0, 0, 0.5);
+    height: 594px;
+    margin: 102px auto 160px;
+}

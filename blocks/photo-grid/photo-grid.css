@@ -1,0 +1,18 @@
+@import url(./__item/photo-grid__item.css);
+
+.photo-grid {
+    max-width: 1184px;
+    display: -ms-grid;
+    display: grid;
+    grid-gap: 16px;
+    -ms-grid-columns: 4fr 16px 4fr 16px 4fr 16px 4fr;
+    grid-template-columns: repeat(4, 4fr);
+    -ms-grid-rows: 3fr 16px 3fr 16px 3fr;
+    grid-template-rows: repeat(3, 3fr);
+    margin: 0 auto;
+    -ms-grid-row-align: center;
+        align-self: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
