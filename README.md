@@ -14,3 +14,5 @@ https://savproga.github.io/ya-demo-travel/
 - .comments (Комментарии фотографов)
 - .cover (Какой-то блок на главной)
 - .footer (Подвал сайта)
+
+Pull Request открыт
